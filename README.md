@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend | Fullstack`**
 
-Me chamo Luiz Eduardo, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciências da computação na FAM EAD. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub e pretendo iniciar gravações no meu canal do Youtuve "[LZ Web Dev]()", onde ensino a criar projetos web, e registro minha evolução nesse mundo do desenvolvimento, e também através do Instagram, com o perfil chamado "[Lz Dev do dia]()".
+Me chamo Luiz Eduardo, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciências da computação na FAM EAD. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub e pretendo iniciar gravações no meu canal do Youtube "[LZ | DevScript](https://www.youtube.com/@LZDevDoDia)", onde ensino a criar projetos web, e registro minha evolução nesse mundo do desenvolvimento, e também através do Instagram, com o perfil chamado "[Lz Dev do dia]()".
 
 <p align="left">
     <a href="https://github.com/LzWebDev?tab=repositories">
