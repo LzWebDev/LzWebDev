@@ -80,14 +80,6 @@ Me chamo Luiz Eduardo, tenho 20 anos e sou natural de Pernambuco. Atualmente, es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
 />
-<img 
-    align="left" 
-    alt="Sequelize" 
-    title="Sequelize"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" 
-/>
 <img
     align="left" 
     alt="Prisma" 
@@ -98,27 +90,11 @@ Me chamo Luiz Eduardo, tenho 20 anos e sou natural de Pernambuco. Atualmente, es
 />
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img        
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
